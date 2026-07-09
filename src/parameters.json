@@ -1,0 +1,7 @@
+{
+    "algorithm": "skimage_watershed_interactive",
+    "final_min_distance": 16,
+    "final_compactness": 0.0,
+    "preprocessing": "Gaussian Blur (5x5) + Morphological Opening",
+    "marker_engine": "skimage.feature.peak_local_max"
+}
