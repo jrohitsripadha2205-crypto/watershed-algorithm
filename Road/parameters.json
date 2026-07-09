@@ -1,0 +1,11 @@
+{
+    "algorithm_metadata": "hybrid_opencv_skimage_advanced_pipeline",
+    "parameters": {
+        "gaussian_blur_kernel": 1,
+        "otsu_threshold_offset": 50,
+        "morphological_open_iterations": 0,
+        "distance_transform_mask_size": 5,
+        "watershed_peak_min_distance": 1,
+        "watershed_compactness": 1.3
+    }
+}
